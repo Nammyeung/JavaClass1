@@ -2,7 +2,7 @@ package Atcoder;
 
 import java.util.Scanner;
 
-public class StringEquivalence {
+public class SimpleStringQueries {
 	static StringBuilder sb = new StringBuilder();
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
